@@ -1,5 +1,5 @@
-UNIVERSITE DE LA ROCHELLE
+﻿UNIVERSITE DE LA ROCHELLE
 
 Projet de semetre 5 : Réalisation d'un jeu de Ruzzle
 
-PARTICIPANT : Martin Pénard, Raphael Bailly
+PARTICIPANTS : Raphael Bailly, Thibault ?, Martin Pénard
